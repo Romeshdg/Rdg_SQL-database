@@ -19,9 +19,15 @@ https://dev.azure.com/romeshdharamgudi/SQL-database
 
 ![image](https://user-images.githubusercontent.com/113555417/221556436-131ab2e1-5ed9-4908-8e88-7a43e34c3cdc.png)
 
-# Save & Run 
+# Configure pipeline by specifying the build and deployment tasks for application
+
 ![Screenshot 2023-02-18 012013](https://user-images.githubusercontent.com/113555417/219778315-2583e4cd-165d-4fed-9e5c-2344c9ffe86b.jpg)
 ![Screenshot 2023-02-18 011800](https://user-images.githubusercontent.com/113555417/219778370-89a9407b-6b56-47dc-a68f-25478b5f3c74.jpg)
+
+
+# Save and run pipeline: Once you've completed all of the necessary configuration, save pipeline and run it to verify that it works as expected.
+
+
 ![Screenshot 2023-02-18 011817](https://user-images.githubusercontent.com/113555417/219778626-72d9895f-9768-48bb-85b3-0721d09618e9.jpg)
 
 # Build release pipelines 
